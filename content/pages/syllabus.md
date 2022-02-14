@@ -1,15 +1,17 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Syllabus
+type: CourseSection
 uid: 3617b6b2-816e-3c48-7c23-b60423a3730f
 ---
 ## Course Meeting Times
 
-Lectures: 2 sessions / week, 1.5 hours / session 
+Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-There are no prerequisites for this course.
+There are no prerequisites for this course. 
 
 ## Readings and Screenings
 
