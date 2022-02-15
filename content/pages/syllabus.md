@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Syllabus
-type: CourseSection
 uid: 3617b6b2-816e-3c48-7c23-b60423a3730f
 ---
 ## Course Meeting Times
