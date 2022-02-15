@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Journal 6: Paula '
-type: OCWFile
 uid: c2313c1e-5be2-137b-a0d4-fbec5f97b3aa
 ---

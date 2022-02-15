@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Balance of Values and Independence '
-type: OCWFile
 uid: 87a20bb2-68ca-ff16-1265-61acd8c25447
 ---

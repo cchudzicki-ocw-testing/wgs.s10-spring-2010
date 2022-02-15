@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Talking Points: Sin Nombre'
-type: OCWFile
 uid: b33f52e7-76e8-b75e-cbe5-accc43b9a741
 ---

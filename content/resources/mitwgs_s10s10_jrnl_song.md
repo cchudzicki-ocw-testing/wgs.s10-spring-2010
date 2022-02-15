@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Journal 7 Song of the Water Saints '
-type: OCWFile
 uid: 3d07f562-abce-7c41-1419-ebb398c82a25
 ---

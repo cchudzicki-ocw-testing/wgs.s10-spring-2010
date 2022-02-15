@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Journal #4 Caramelo'
-type: OCWFile
 uid: 14a84312-f17b-9855-add7-38f88cf01440
 ---

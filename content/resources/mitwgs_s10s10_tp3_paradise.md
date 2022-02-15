@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Talking Points 3 Paradise '
-type: OCWFile
 uid: 60252f67-8f15-c387-fc21-b06412aef5a4
 ---

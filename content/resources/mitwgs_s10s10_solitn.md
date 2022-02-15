@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Socialization of Sex in Latina Culture
-type: OCWFile
 uid: 4ffd6fb4-fccc-e056-ed7c-dc061c553002
 ---

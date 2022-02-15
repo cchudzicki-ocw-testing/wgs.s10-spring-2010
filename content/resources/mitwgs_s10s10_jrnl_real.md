@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Journal 3 Real Women Have Curves
-type: OCWFile
 uid: 571fedca-e781-81d3-4631-a6b9605b2411
 ---

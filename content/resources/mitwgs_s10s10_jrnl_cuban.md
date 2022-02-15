@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Journal 5 Dreaming in Cuban
-type: OCWFile
 uid: 59e4a13e-666d-2edf-bff3-46266ef2afe6
 ---

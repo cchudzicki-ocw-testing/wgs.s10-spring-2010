@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Journal 2 When I Was Puerto Rican '
-type: OCWFile
 uid: 5662d1ed-9782-1d8a-2bd3-d1091604e7ba
 ---

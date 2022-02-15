@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Talking Points Song of the Water Saints '
-type: OCWFile
 uid: 7360b375-f052-fc78-a667-8b2c2ba6028a
 ---

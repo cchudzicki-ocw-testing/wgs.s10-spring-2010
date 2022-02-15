@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Journal 1
-type: OCWFile
 uid: 19223ee7-9c69-517b-cc89-ada5d6e0ce12
 ---

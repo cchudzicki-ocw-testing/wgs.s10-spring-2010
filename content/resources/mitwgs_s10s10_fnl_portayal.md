@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Portrayal of History: Looking at Political Influences in Dreaming in Cuba,
   Paula, and La Historia Oficial '
-type: OCWFile
 uid: a5c818bd-213f-256d-3b16-fc29dafe70ee
 ---

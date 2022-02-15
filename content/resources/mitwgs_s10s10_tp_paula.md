@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Talking Points Paula '
-type: OCWFile
 uid: ed2f0d01-4c0e-3b68-ab2a-3e711c176a24
 ---

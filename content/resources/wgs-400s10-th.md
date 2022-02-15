@@ -15,6 +15,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: wgs-400s10-th.jpg
-type: OCWImage
 uid: b0cfa446-4f09-bf03-1eec-4d874812732d
 ---

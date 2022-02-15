@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Predetermined Social Roles and Their Effect on the Individual
-type: OCWFile
 uid: 25aede69-e28f-f1bb-c45d-669559593ab7
 ---

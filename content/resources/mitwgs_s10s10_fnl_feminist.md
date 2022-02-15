@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Feminist Ideology Expressed in Latina Works
-type: OCWFile
 uid: 9328278a-4006-fb1d-dfe6-ea5eba6ef8d2
 ---

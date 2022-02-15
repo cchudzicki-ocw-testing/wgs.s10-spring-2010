@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Talking Points 2: Caramelo  '
-type: OCWFile
 uid: f4bf7582-348d-55fd-9c11-768f204bea66
 ---

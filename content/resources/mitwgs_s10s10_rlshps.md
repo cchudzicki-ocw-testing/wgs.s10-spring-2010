@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Intra-familial Relationships in Latin American Culture  '
-type: OCWFile
 uid: 12353a19-2bfe-2645-16a8-7e25572a9a6e
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Feminist Ideology in Selected Works of Fiction
-type: OCWFile
 uid: ca08555f-e361-486a-4702-996a23c4aaa4
 ---

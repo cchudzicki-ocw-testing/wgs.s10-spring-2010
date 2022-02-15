@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Talking Points Frida '
-type: OCWFile
 uid: 409ec0b7-750e-191c-40bc-1e01fef31f33
 ---

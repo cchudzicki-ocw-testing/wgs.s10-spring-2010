@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Talking Points Like Water for Chocolate
-type: OCWFile
 uid: 91309a8f-02ab-bbef-02e0-2c5f2fa7ce0c
 ---
