@@ -13,6 +13,16 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 There are no prerequisites for this course. Link to thing {{% resource_link 1be2d5a3-f015-8dfc-1645-5878ba5f19a2 "Projects" %}}
 
+More links:
+
+{{% resource_link b33f52e7-76e8-b75e-cbe5-accc43b9a741 "Talking Points: Sin Nombre" %}}
+
+{{% resource_link 409ec0b7-750e-191c-40bc-1e01fef31f33 "Talking Points Frida " %}} 
+
+cats
+
+{{% resource_link f5dd4e79-349d-7996-3ccd-7112f83f71b0 "This is an image" %}}
+
 ## Readings and Screenings
 
 In addition to reading assignments, this course requires some viewing of assigned films. A close reading of assigned texts, as well as a fresh viewing of required films by the due date, is indispensable to class discussions and to successfully completing the course.
