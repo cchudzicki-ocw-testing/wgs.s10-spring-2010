@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  readings and screenings, class participation and presentations, written assignments,
+  and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
