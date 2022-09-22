@@ -13,6 +13,7 @@ image_metadata:
   credit: Image courtesy of Pedro Cambra on Flickr.
   image-alt: Isabel Allende's autograph on two of her books
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: wgs-400s10-th.jpg
